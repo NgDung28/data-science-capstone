@@ -45,6 +45,9 @@ README.md
 
 4. Go to http://0.0.0.0:3001/ to open the homepage
 
+### Summary of the results
+The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@ngdung28996/can-you-discriminate-between-different-dog-breeds-49c8f5ef1abd)
+
 ### Licensing, Authors, Acknowledgements, etc.
     - Udacity for training data and starter code for the web app. 
     # GET_PASSES_THIS_REPO_UDACITY_PLEASE
